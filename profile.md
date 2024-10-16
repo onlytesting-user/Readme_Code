@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=Greetings,+my+name+is+Testing;I+am+20+years+old;I+am+from+Brazil;I+work+as+a+.NET+Developer;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=Greetings,+my+name+is+Testing;I+work+as+a+Freelance+Developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onlytesting-user&show_icons=true&count_private=true&hide_border=true&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="onlytesting-user github stats" />
@@ -14,21 +14,42 @@
 
 <!-- Nota: Substituir o "onlytesting-user" acima pelo seu nome -->
 
+<!-- ### Opcional: -->
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=onlytesting-user&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <!-- Nota: Substituir o "onlytesting-user" acima pelo seu nome -->
 
-<div align="center">
-<a href="https://linkedin.com/in/joao-victor-bezerras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<div style="display: flex; gap: 8px">
+
+<div>
+<a href="https://linkedin.com/in/joao-victor-bezerras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </div>
-<div align="center">
-<a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=jvbsilva5@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+
+<div>
+<a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=jvbsilva5@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
+
+<div>
+<a href="https://www.instagram.com/joaovictor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+</div>
+
+<div>
+<a href="https://www.facebook.com/people/Jo%C3%A3o-Victor-Da-Silva/pfbid0Agtmdk9ksZ613qW8i1q2dCD2mb7JaRdNsUaogLJB5KwEGpaM5o5iadStXE4trr1Sl/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+</a>
+</div>
+
 </div>
 
 <!-- Nota: Substituir "joao-victor-bezerras" acima pelo link do seu LinkedIn -->
 <!-- Nota: Substituir "jvbsilva5@outlook.com" acima pelo seu endereço de E-mail -->
+<!-- Nota: Substituir "joaovictor" acima pelo seu @ do Instagram -->
+<!-- Nota: Substituir "Jo%C3%A3o-Victor-Da-Silva/pfbid0Agtmdk9ksZ613qW8i1q2dCD2mb7JaRdNsUaogLJB5KwEGpaM5o5iadStXE4trr1Sl/" acima pelo link do seu perfil no Facebook -->
 
 
 ## Main:
