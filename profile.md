@@ -16,34 +16,21 @@
 
 <!-- ### Opcional: -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=onlytesting-user&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
 <!-- Nota: Substituir o "onlytesting-user" acima pelo seu nome -->
 
 <div align="center">
-
-<div>
-<a href="https://linkedin.com/in/joao-victor-bezerras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</div>
-
-<div>
-<a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=jvbsilva5@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</div>
-
-<div>
-<a href="https://www.instagram.com/joaovictor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-</div>
-
-<div>
-<a href="https://www.facebook.com/people/Jo%C3%A3o-Victor-Da-Silva/pfbid0Agtmdk9ksZ613qW8i1q2dCD2mb7JaRdNsUaogLJB5KwEGpaM5o5iadStXE4trr1Sl/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-</a>
-</div>
-
+  <a href="https://linkedin.com/in/joao-victor-bezerras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> &nbsp;
+  <a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=jvbsilva5@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> &nbsp;
+  <a href="https://www.instagram.com/joaovictor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a> &nbsp;
+  <a href="https://www.facebook.com/people/Jo%C3%A3o-Victor-Da-Silva/pfbid0Agtmdk9ksZ613qW8i1q2dCD2mb7JaRdNsUaogLJB5KwEGpaM5o5iadStXE4trr1Sl/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
 </div>
 
 <!-- Nota: Substituir "joao-victor-bezerras" acima pelo link do seu LinkedIn -->
