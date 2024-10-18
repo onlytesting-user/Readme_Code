@@ -22,7 +22,7 @@
 
 <!-- Nota: Substituir o "onlytesting-user" acima pelo seu nome -->
 
-<div style="display: flex; gap: 8px">
+<div align="center">
 
 <div>
 <a href="https://linkedin.com/in/joao-victor-bezerras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
