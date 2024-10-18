@@ -2,10 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=Greetings,+my+name+is+Testing;I+work+as+a+Freelance+Developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-victor-bezerras/)&nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://outlook.live.com/owa/?path=/mail/action/compose&to=jvbsilva5@outlook.com)&nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaovictor/)&nbsp;&nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Jo%C3%A3o-Victor-Da-Silva/pfbid0Agtmdk9ksZ613qW8i1q2dCD2mb7JaRdNsUaogLJB5KwEGpaM5o5iadStXE4trr1Sl/)
+</div>
 
 <!-- Nota: Substituir "joao-victor-bezerras" acima pelo link do seu LinkedIn -->
 <!-- Nota: Substituir "jvbsilva5@outlook.com" acima pelo seu endereço de E-mail -->
