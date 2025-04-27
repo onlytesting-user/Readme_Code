@@ -4,10 +4,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-victor-bezerras/)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joao-victor-bezerras/)&nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://outlook.live.com/owa/?path=/mail/action/compose&to=jvbsilva5@outlook.com)&nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaovictor/)&nbsp;&nbsp;&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Jo%C3%A3o-Victor-Da-Silva/pfbid0Agtmdk9ksZ613qW8i1q2dCD2mb7JaRdNsUaogLJB5KwEGpaM5o5iadStXE4trr1Sl/)
 
 </div>
 
@@ -28,59 +27,21 @@
 
 <!-- Nota: Substituir o "onlytesting-user" acima pelo seu nome -->
 
-## Main:
+## Skills:
 
-<div>
-<img height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;
+<div align="center">
 
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;
+![Go](https://img.shields.io/badge/Go-0D1117.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0D1117.svg?style=for-the-badge&logo=amazon-web-services&logoColor=%23FF9900)&nbsp;
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;
-</div>
+![Redis](https://img.shields.io/badge/Redis-0D1117.svg?style=for-the-badge&logo=redis&logoColor=%23DD0031)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=fff)&nbsp;
 
-## Frameworks:
-
-<div>
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;
-
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />&nbsp;&nbsp;&nbsp;
-</div>
-
-## Cloud Services:
-
-<div>
-<img height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />&nbsp;&nbsp;&nbsp;
-<div>
-
-## Databases:
-
-<div>
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-<img height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />&nbsp;&nbsp;
-</div>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=da0bef)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=62ff52)&nbsp;
+![Postgres](https://img.shields.io/badge/Postgres-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=%52fff2)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=footer">
