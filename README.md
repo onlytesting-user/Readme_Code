@@ -4,9 +4,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joao-victor-bezerras/)&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://outlook.live.com/owa/?path=/mail/action/compose&to=jvbsilva5@outlook.com)&nbsp;&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaovictor/)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joao-victor-bezerras/) <br>
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://outlook.live.com/owa/?path=/mail/action/compose&to=jvbsilva5@outlook.com)
 
 </div>
 
