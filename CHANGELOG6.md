@@ -26,9 +26,9 @@
 
 <details align="center">
   <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
+    <samp>
+      <b>More Info</b>
+    </samp>
   </summary>
 
 <br>
@@ -77,7 +77,7 @@
 
 <br>
 
-<!-- <img height="150" align="right" src="assets/vecteezy_coffee-cup-illustration-art-exhibition-ai-generated_26691102.png" /> -->
+<!-- <img height="150" align="right" src="assets/coffee.png" /> -->
 
 <div align="center">
 

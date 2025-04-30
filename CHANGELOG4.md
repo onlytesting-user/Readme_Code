@@ -26,9 +26,9 @@
 
 <!-- <details align="center">
   <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
+    <samp>
+      <b>More Info</b>
+    </samp>
   </summary> -->
 
 <div align="center" >
@@ -43,7 +43,7 @@
 
 <br>
 
-<img height="329" align="right" src="assets/vecteezy_coffee-cup-illustration-art-exhibition-ai-generated_26691102.png" />
+<img height="329" align="right" src="assets/coffee.png" />
 
 <div align="center">
 

@@ -26,9 +26,9 @@
 
 <!-- <details align="center">
   <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
+    <samp>
+      <b>More Info</b>
+    </samp>
   </summary> -->
 
 <div align="center" >
