@@ -43,7 +43,7 @@
 
 <br>
 
-<img height="476" align="right" src="assets/vecteezy_coffee-cup-illustration-art-exhibition-ai-generated_26691102.png" />
+<img height="329" align="right" src="assets/vecteezy_coffee-cup-illustration-art-exhibition-ai-generated_26691102.png" />
 
 <div align="center">
 
@@ -51,7 +51,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
   [![Facebook](https://img.shields.io/badge/Facebook-2e3440?style=for-the-badge&logo=Facebook&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
+ <!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920) -->
 
 </div>
 
@@ -59,7 +59,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img width="484" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes,vim" />
+      <img width="500" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes,vim" />
     </a>
   </p>
 
