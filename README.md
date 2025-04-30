@@ -66,7 +66,6 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlytesting-user&hide_border=false&theme=react"
   />
   <br>
-  <br>
   <img
     height=154
     align="center"
