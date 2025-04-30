@@ -62,7 +62,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img width="500" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes,vim" />
+      <img width="480" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes,vim" />
     </a>
   </p>
 
