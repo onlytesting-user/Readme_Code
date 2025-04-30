@@ -24,12 +24,12 @@
 
 <br>
 
-<!-- <details align="center">
+<details align="center">
   <summary>
       <samp>
         <b>More Info</b>
       </samp>
-  </summary> -->
+  </summary>
 
 <br>
 <br>
@@ -116,6 +116,6 @@
 
 </div>
 
-<!-- </details> -->
+</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=120&section=footer">
