@@ -44,7 +44,7 @@
 
 </div>
 
-<br>
+<!-- <br> -->
 
 <img height="329" align="right" src="assets/vecteezy_coffee-cup-illustration-art-exhibition-ai-generated_26691102.png" />
 
