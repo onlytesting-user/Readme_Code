@@ -26,58 +26,27 @@
 
 <details align="center">
   <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
+    <samp>
+      <b>More Info</b>
+    </samp>
   </summary>
 
 <br>
 <br>
 
-<!-- <div align="center" >
+<div align="center" >
 
-  | [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=onlytesting-user&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=react&font=Iosevka)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Top Languages for Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=onlytesting-user&layout=compact&hide_border=true&font=Iosevka&langs_count=8&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| :-: | :-: |
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=onlytesting-user&show_icons=true&count_private=true&rank_icon=github&hide_border=false&theme=react&font=Iosevka)](https://github.com/vn7n24fzkq/github-profile-summary-cards) &nbsp; [![GitHub Top Languages for Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=onlytesting-user&layout=compact&hide_border=false&font=Iosevka&langs_count=8&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-  | [![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlytesting-user&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onlytesting-user&theme=react&hide_border=true)](https://git.io/streak-stats) |
-| :-: | :-: |
+  [![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlytesting-user&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-</div> -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onlytesting-user&theme=react&hide_border=false&card_width=885)](https://git.io/streak-stats)
 
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=onlytesting-user&show_icons=true&count_private=true&rank_icon=github&hide_border=false&theme=react"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    height=165
-    align="center"
-    alt="GitHub Top Languages for Commit"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlytesting-user&layout=compact&hide_border=false&font=Iosevka&langs_count=16&theme=react"
-  />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="GitHub Profile Summary"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlytesting-user&hide_border=false&theme=react"
-  />
-  <br>
-  <br>
-  <img
-    height=154
-    align="center"
-    alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=onlytesting-user&theme=react&hide_border=false&card_width=885"
-  />
-  </div>
+</div>
 
-<br>
+<!-- <br> -->
 
-<!-- <img height="150" align="right" src="assets/vecteezy_coffee-cup-illustration-art-exhibition-ai-generated_26691102.png" /> -->
+<img height="370" align="right" src="assets/coffee.png" />
 
 <div align="center">
 
@@ -85,7 +54,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
   [![Facebook](https://img.shields.io/badge/Facebook-2e3440?style=for-the-badge&logo=Facebook&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  <!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920) -->
 
 </div>
 
@@ -93,7 +61,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img width="600" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes,vim" />
+      <img width="480" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes,vim" />
     </a>
   </p>
 
@@ -108,8 +76,8 @@
   <p align="center">
     <samp>
       ✩ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-      <a href="https://linktr.ee/onlytesting-user1">linktr.ee</a> ⊹
-      <a href="https://byonlytesting-user.carrd.co/">carrd.co</a> ⊹
+      <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
+      <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
       <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ✩
     </samp>
   </p>
