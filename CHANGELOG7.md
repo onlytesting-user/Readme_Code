@@ -65,7 +65,7 @@
   />
 </div>
 
-<!-- <br> -->
+<br>
 
 <img height="329" align="right" src="assets/coffee.png" />
 
