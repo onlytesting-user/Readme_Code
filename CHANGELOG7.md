@@ -75,9 +75,9 @@
 
   <p align="center">
     <samp>
-      ✩ <a href="https://github.com/onlytesting-user/setup_for_languages">settings.json</a> ⊹
-      <a href="https://github.com/onlytesting-user/ultim4te">ultimate.omp.json</a> ⊹
-      <a href="https://github.com/CodeAmbient/video-guides/blob/main/01-turning-vscode-into-neovim/keybindings.json">keybindings.json</a> ✩
+      ✩ <a href="https://github.com/onlytesting-user/setup_for_languages">settings</a> ⊹
+      <a href="https://github.com/onlytesting-user/ultim4te">ultimate</a> ⊹
+      <a href="https://github.com/CodeAmbient/video-guides/blob/main/01-turning-vscode-into-neovim/keybindings.json">keybindings</a> ✩
     </samp>
   </p>
 
