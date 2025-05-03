@@ -61,7 +61,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img width="480" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes,vim" />
+      <img width="480" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes" />
     </a>
   </p>
 
@@ -75,10 +75,9 @@
 
   <p align="center">
     <samp>
-      ✩ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-      <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-      <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-      <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ✩
+      ✩ <a href="https://github.com/onlytesting-user/setup_for_languages">settings.json</a> ⊹
+      <a href="https://github.com/onlytesting-user/ultim4te">ultimate.omp.json</a> ⊹
+      <a href="https://github.com/CodeAmbient/video-guides/blob/main/01-turning-vscode-into-neovim/keybindings.json">keybindings.json</a> ✩
     </samp>
   </p>
 

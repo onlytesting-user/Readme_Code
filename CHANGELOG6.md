@@ -34,16 +34,6 @@
 <br>
 <br>
 
-<!-- <div align="center" >
-
-  | [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=onlytesting-user&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=react&font=Iosevka)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Top Languages for Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=onlytesting-user&layout=compact&hide_border=true&font=Iosevka&langs_count=8&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| :-: | :-: |
-
-  | [![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlytesting-user&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onlytesting-user&theme=react&hide_border=true)](https://git.io/streak-stats) |
-| :-: | :-: |
-
-</div> -->
-
 <div align="center">
   <img
     height=165
@@ -93,7 +83,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img width="600" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes,vim" />
+      <img width="600" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes" />
     </a>
   </p>
 
@@ -107,10 +97,9 @@
 
   <p align="center">
     <samp>
-      ✩ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-      <a href="https://linktr.ee/onlytesting-user1">linktr.ee</a> ⊹
-      <a href="https://byonlytesting-user.carrd.co/">carrd.co</a> ⊹
-      <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ✩
+      ✩ <a href="https://github.com/onlytesting-user/setup_for_languages">settings.json</a> ⊹
+      <a href="https://github.com/onlytesting-user/ultim4te">ultimate.omp.json</a> ⊹
+      <a href="https://github.com/onlytesting-user/linkedin-background">linkedin-background</a> ✩
     </samp>
   </p>
 
