@@ -34,47 +34,26 @@
 <br>
 <br>
 
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=onlytesting-user&show_icons=true&count_private=true&rank_icon=github&hide_border=false&theme=react"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    height=165
-    align="center"
-    alt="GitHub Top Languages for Commit"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlytesting-user&layout=compact&hide_border=false&font=Iosevka&langs_count=16&theme=react"
-  />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="GitHub Profile Summary"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlytesting-user&hide_border=false&theme=react"
-  />
-  <br>
-  <br>
-  <img
-    height=154
-    align="center"
-    alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=onlytesting-user&theme=react&hide_border=false&card_width=885"
-  />
+<div align="center" >
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=onlytesting-user&show_icons=true&count_private=true&rank_icon=github&hide_border=false&theme=react&font=Iosevka)](https://github.com/vn7n24fzkq/github-profile-summary-cards) &nbsp; [![GitHub Top Languages for Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=onlytesting-user&layout=compact&hide_border=false&font=Iosevka&langs_count=8&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+  [![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlytesting-user&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onlytesting-user&theme=react&hide_border=false&card_width=885)](https://git.io/streak-stats)
+
 </div>
 
-<br>
+<!-- <br> -->
 
 <img height="329" align="right" src="assets/coffee.png" />
 
 <div align="center">
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joao-victor-bezerras/)
-[![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-[![Facebook](https://img.shields.io/badge/Facebook-2e3440?style=for-the-badge&logo=Facebook&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joao-victor-bezerras/)
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  [![Facebook](https://img.shields.io/badge/Facebook-2e3440?style=for-the-badge&logo=Facebook&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
 
 </div>
 
