@@ -63,7 +63,7 @@
     alt="GitHub Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=onlytesting-user&theme=react&hide_border=false&card_width=885"
   />
-  </div>
+</div>
 
 <br>
 
