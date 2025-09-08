@@ -41,11 +41,11 @@
 
 </div>
 
-<!-- <br> -->
+<br>
 
 <img height="370" align="right" src="assets/free-coffee2.png" />
 
-<div align="left">
+<div align="center">
 
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joao-victor-bezerras/)
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
