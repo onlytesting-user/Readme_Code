@@ -43,7 +43,7 @@
 
 <!-- <br> -->
 
-<img height="300" align="right" src="assets/free-coffee2.png" />
+<img height="370" align="right" src="assets/free-coffee2.png" />
 
 <div align="left">
 
