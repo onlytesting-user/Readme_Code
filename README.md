@@ -31,15 +31,13 @@
 <br>
 <br>
 
-<div align="center" >
-
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=onlytesting-user&show_icons=true&count_private=true&rank_icon=github&hide_border=false&theme=react&font=Iosevka)](https://github.com/vn7n24fzkq/github-profile-summary-cards) &nbsp; [![GitHub Top Languages for Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=onlytesting-user&layout=compact&hide_border=false&font=Iosevka&langs_count=8&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-  [![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onlytesting-user&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=onlytesting-user&theme=react&hide_border=false&card_width=885)](https://git.io/streak-stats)
-
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onlytesting-user&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&bg_color=0d1117" alt="onlytesting-user github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlytesting-user&layout=compact&langs_count=6&hide_border=true&title_color=00ADD8&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onlytesting-user&bg_color=0d1117&color=00ADD8&line=23BCE0&point=008CB0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
