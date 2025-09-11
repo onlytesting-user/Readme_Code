@@ -41,7 +41,7 @@
 
 </div>
 
-<!-- <br> -->
+<br>
 
 <img height="370" align="right" src="assets/free-coffee2.png" />
 
