@@ -2,9 +2,6 @@
 
 <div align="center">
   <samp>
-    <b>
-      システムアナリスト
-    </b>
     </p>
       Greetings, I'm Testing
     </p>
@@ -20,7 +17,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADD8&size=35&center=true&vCenter=true&width=1000&lines=I+work+as+a+Back-end+Go+Developer...;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADD8&size=35&center=true&vCenter=true&width=1000&lines=I+work+as+a+Back-end+Go+Developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <br>
 
@@ -44,16 +41,12 @@
 
 </div>
 
-<!-- <br> -->
-
-<img height="370" align="right" src="assets/coffee.png" />
+<br>
 
 <div align="center">
 
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joao-victor-bezerras/)
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Facebook](https://img.shields.io/badge/Facebook-2e3440?style=for-the-badge&logo=Facebook&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joao-victor-bezerras/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
 
 </div>
 
@@ -61,7 +54,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img width="430" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes,vim" />
+      <img width="430" src="https://skillicons.dev/icons?i=go,postgres,git,mongodb,docker,redis,postman,rabbitmq,kubernetes,terraform" />
     </a>
   </p>
 
@@ -75,10 +68,9 @@
 
   <p align="center">
     <samp>
-      ✩ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-      <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-      <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-      <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ✩
+      <a href="https://github.com/onlytesting-user/setup_for_languages">settings</a> ⊹
+      <a href="https://github.com/onlytesting-user/ultim4te">oh-my-posh</a> ⊹
+      <a href="https://github.com/CodeAmbient/video-guides/blob/main/01-turning-vscode-into-neovim/keybindings.json">keybindings</a>
     </samp>
   </p>
 
