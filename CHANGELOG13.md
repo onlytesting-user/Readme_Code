@@ -21,12 +21,12 @@
 
 <br>
 
-<!-- <details align="center">
+<details align="center">
   <summary>
     <samp>
       <b>More Info</b>
     </samp>
-  </summary> -->
+  </summary>
 
 <br>
 <br>
