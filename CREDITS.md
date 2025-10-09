@@ -6,4 +6,3 @@ This project includes GIFs provided by the creators below, available via [GIPHY]
 - [Grelldenker](https://giphy.com/Grelldenker) — [GIF link](https://media3.giphy.com/media/HxFDhA4TSjaxwI6T3s/giphy.gif)
 
 > All GIFs are used under GIPHY’s embedding and sharing terms.
-

@@ -49,11 +49,10 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img width="560" src="https://skillicons.dev/icons?i=cs,postgres,dotnet,mongodb,git,redis,docker,linux,postman,rabbitmq" />
+    <img width="560" src="https://skillicons.dev/icons?i=cs,postgres,dotnet,mongodb,git,redis,docker,azure,postman,rabbitmq" />
   </a>
 </div>
 
 </details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=120&section=footer">
-
