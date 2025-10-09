@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://linkedin.com/" alt="My LinkedIn" target="_blank">
+  <a href="https://linkedin.com/" alt="My LinkedIn profile">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFlcjE0dW9wZXNkMGt4bXRqNzl2NGZjNjR6YjJsMXN1cXA5ZWo0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8VdF6eUDd2e96lmyOB/giphy.gif" width="200" />
   </a>
 </div>
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=512BD4&size=35&center=true&vCenter=true&width=1000&lines=Greetings,+I'm+Testing;I'm+a+Back-End+.NET+Developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=512BD4&size=35&center=true&vCenter=true&width=1000&lines=👋+Greetings,+I'm+Testing;💻+I'm+a+.NET+Back-End+Developer;🚀+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,7 +39,7 @@
 <br>
 
 <div align="center">
-  <a href="mailto:theuglyduck272@gmail.com" alt="My Email" target="_blank">
+  <a href="mailto:theuglyduck272@gmail.com" alt="Send me an email">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNzZnVyMjd2bXBsOXNuMGlmdDcwbjRqMGI5dDZrdmxwNXIzbnQwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HxFDhA4TSjaxwI6T3s/giphy.gif" width="200" />
   </a>
 </div>
