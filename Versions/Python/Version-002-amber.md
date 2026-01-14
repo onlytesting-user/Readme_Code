@@ -22,15 +22,8 @@ I'm always thinking about the best project architecture, the best coding practic
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img width="400" src="https://skillicons.dev/icons?i=cs,postgres,dotnet,mongodb,git,redis,docker,azure,postman,rabbitmq" />
+    <img width="400" src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,mongodb,docker,redis,kubernetes,aws,kafka" />
   </a>
-</div>
-
-### GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlytesting-user&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&title_color=FF9E1A&bg_color=000&text_color=fff&border_radius=3&hide_border=true" width="450" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlytesting-user&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide=html,css&title_color=FF9E1A&bg_color=000&text_color=fff&border_radius=3&hide_border=true" width="364" alt="languages graph"  />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C46B00&height=120&section=footer">
