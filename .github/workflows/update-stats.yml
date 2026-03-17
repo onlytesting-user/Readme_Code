@@ -1,8 +1,12 @@
 name: Update GitHub Stats
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+# ADD THIS SECTION TO FIX ERROR 128
+permissions:
+  contents: write
 
 jobs:
   publish:
@@ -14,7 +18,6 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
-          # Custom colors: Purple titles, White text, Black background
           options: 'username=${{ github.repository_owner }}&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=7B42BC&bg_color=000&text_color=fff&border_radius=3&rank_icon=github'
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -23,7 +26,6 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          # Hiding: html, css, java, javascript, typescript
           options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&title_color=7B42BC&bg_color=000&text_color=fff&border_radius=3&hide=html,css,java,javascript,typescript'
           path: profile/langs.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -32,7 +34,8 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p profile # Ensures the folder exists
+          mkdir -p profile
           git add profile/*.svg
+          # The "|| exit 0" prevents the action from failing if there are no changes
           git commit -m "docs: update profile stats [skip ci]" || exit 0
           git push
