@@ -76,8 +76,8 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
 ### ⚙️ GitHub Analytics
 
 <div align="left">
-  <img src="../profile/stats.svg" width="479.32" alt="stats graph" />
-  <img src="../profile/langs.svg" width="364" alt="languages graph" />
+  <img src="../profile/stats.svg" width="48%" style="display:inline-block;" />
+  <img src="../profile/langs.svg" width="36.57%" style="display:inline-block;" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=326CE5&height=120&section=footer">
