@@ -11,44 +11,46 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      # 🌙 DARK THEME
+      # --- Stats Cards ---
+      - name: Generate Dark Stats
+        uses: soulteary/github-readme-stats-action@v1.1.0
+        with:
+          card: stats
+          path: profile/stats-dark.svg
+          options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=000&border_color=fff&text_color=c0c0c0&title_color=e38c00'
 
-      - name: Generate Dark Stats SVG
-        run: |
-          mkdir -p profile
-          curl -f -o profile/stats-dark.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&bg_color=000000&border_color=ffffff&border_radius=6&text_color=c0c0c0&title_color=e38c00&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=86400" \
-          || echo "Dark stats failed, keeping previous file"
+      - name: Generate Light Stats
+        uses: soulteary/github-readme-stats-action@v1.1.0
+        with:
+          card: stats
+          path: profile/stats-light.svg
+          options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=fff&border_color=d0d7de&text_color=24292f&title_color=0969da'
 
-      - name: Generate Dark Langs SVG
-        run: |
-          curl -f -o profile/langs-dark.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=000000&border_color=ffffff&border_radius=6&text_color=c0c0c0&title_color=e38c00&hide=html,css,java,javascript,typescript&cache_seconds=86400" \
-          || echo "Dark langs failed, keeping previous file"
+      # --- Language Cards ---
+      - name: Generate Dark Langs
+        uses: soulteary/github-readme-stats-action@v1.1.0
+        with:
+          card: top-langs
+          path: profile/langs-dark.svg
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=000&border_color=fff&text_color=c0c0c0&title_color=e38c00&hide=html,css,java,javascript,typescript'
 
-
-      # ☀️ LIGHT THEME
-
-      - name: Generate Light Stats SVG
-        run: |
-          curl -f -o profile/stats-light.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&bg_color=ffffff&border_color=d0d7de&border_radius=6&text_color=24292f&title_color=0969da&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=86400" \
-          || echo "Light stats failed, keeping previous file"
-
-      - name: Generate Light Langs SVG
-        run: |
-          curl -f -o profile/langs-light.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=ffffff&border_color=d0d7de&border_radius=6&text_color=24292f&title_color=0969da&hide=html,css,java,javascript,typescript&cache_seconds=86400" \
-          || echo "Light langs failed, keeping previous file"
-
-
-      # 📦 COMMIT
+      - name: Generate Light Langs
+        uses: soulteary/github-readme-stats-action@v1.1.0
+        with:
+          card: top-langs
+          path: profile/langs-light.svg
+          # Using standard GitHub light colors for the light version
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=fff&border_color=d0d7de&text_color=24292f&title_color=0969da&hide=html,css,java,javascript,typescript'
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p profile
           git add profile/*.svg
           git commit -m "docs: update profile stats [skip ci]" || exit 0
           git push
