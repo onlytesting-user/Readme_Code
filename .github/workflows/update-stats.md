@@ -1,0 +1,55 @@
+```yaml name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      # 🌙 DARK THEME
+
+      - name: Generate Dark Stats SVG
+        run: |
+          mkdir -p profile
+          curl -f -o profile/stats-dark.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&bg_color=000000&border_color=ffffff&border_radius=6&text_color=c0c0c0&title_color=e38c00&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=86400" \
+          || echo "Dark stats failed, keeping previous file"
+
+      - name: Generate Dark Langs SVG
+        run: |
+          curl -f -o profile/langs-dark.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=000000&border_color=ffffff&border_radius=6&text_color=c0c0c0&title_color=e38c00&hide=html,css,java,javascript,typescript&cache_seconds=86400" \
+          || echo "Dark langs failed, keeping previous file"
+
+
+      # ☀️ LIGHT THEME
+
+      - name: Generate Light Stats SVG
+        run: |
+          curl -f -o profile/stats-light.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&bg_color=ffffff&border_color=d0d7de&border_radius=6&text_color=24292f&title_color=0969da&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=86400" \
+          || echo "Light stats failed, keeping previous file"
+
+      - name: Generate Light Langs SVG
+        run: |
+          curl -f -o profile/langs-light.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=ffffff&border_color=d0d7de&border_radius=6&text_color=24292f&title_color=0969da&hide=html,css,java,javascript,typescript&cache_seconds=86400" \
+          || echo "Light langs failed, keeping previous file"
+
+
+      # 📦 COMMIT
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "docs: update profile stats [skip ci]" || exit 0
+          git push
+```
