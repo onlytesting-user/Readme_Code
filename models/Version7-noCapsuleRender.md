@@ -89,9 +89,9 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
 
   <span>
     <picture>
-      <source srcset="../profile/stats-dark.svg" media="(prefers-color-scheme: dark)" />
-      <source srcset="../profile/stats-light.svg" media="(prefers-color-scheme: light)" />
-      <img src="../profile/stats-dark.svg" width="48%" />
+      <source srcset="./profile/stats-dark.svg" media="(prefers-color-scheme: dark)" />
+      <source srcset="./profile/stats-light.svg" media="(prefers-color-scheme: light)" />
+      <img src="./profile/stats-dark.svg" width="48%" />
     </picture>
   </span>
 
@@ -99,9 +99,9 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
 
   <span>
     <picture>
-      <source srcset="../profile/langs-dark.svg" media="(prefers-color-scheme: dark)" />
-      <source srcset="../profile/langs-light.svg" media="(prefers-color-scheme: light)" />
-      <img src="../profile/langs-dark.svg" width="48%" />
+      <source srcset="./profile/langs-dark.svg" media="(prefers-color-scheme: dark)" />
+      <source srcset="./profile/langs-light.svg" media="(prefers-color-scheme: light)" />
+      <img src="./profile/langs-dark.svg" width="48%" />
     </picture>
   </span>
 
