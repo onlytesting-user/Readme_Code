@@ -23,56 +23,56 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
 
 </p>
 
-### 🌐 Connect with me!
+### :globe_with_meridians: Connect with me!
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:theuglyduck272@gmail.com)
 
-### 🛠️ Tech Stack
+### :hammer_and_wrench: Tech Stack
 
 <table>
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>Python
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>Docker
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
       </a>
-      <br>AWS Cloud
+      <br>SQL Server
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="Azure SQL Database" />
       </a>
-      <br>Kubernetes
+      <br>Azure SQL
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>Jenkins
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
       </a>
-      <br>GitHub Actions
+      <br>RedisDB
     </td>
     <td align="center"  width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="48" height="48" alt="DynamoDB" />
       </a>
-      <br>Terraform
+      <br>DynamoDB
     </td>
     <td align="center" width="96">
       <a>
@@ -83,7 +83,7 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
   </tr>
 </table>
 
-### ⚙️ GitHub Analytics
+### :gear: GitHub Analytics
 
 <div align="left">
   <img src="../profile/stats.svg" width="479.32" alt="stats graph" />
