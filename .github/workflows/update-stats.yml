@@ -17,14 +17,14 @@ jobs:
 
       # --- Stats Cards ---
       - name: Generate Dark Stats
-        uses: soulteary/github-readme-stats-action@v1.1.0
+        uses: soulteary/github-readme-stats-action@main
         with:
           card: stats
           path: profile/stats-dark.svg
           options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=000&border_color=fff&text_color=c0c0c0&title_color=e38c00'
 
       - name: Generate Light Stats
-        uses: soulteary/github-readme-stats-action@v1.1.0
+        uses: soulteary/github-readme-stats-action@main
         with:
           card: stats
           path: profile/stats-light.svg
@@ -32,14 +32,14 @@ jobs:
 
       # --- Language Cards ---
       - name: Generate Dark Langs
-        uses: soulteary/github-readme-stats-action@v1.1.0
+        uses: soulteary/github-readme-stats-action@main
         with:
           card: top-langs
           path: profile/langs-dark.svg
           options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=000&border_color=fff&text_color=c0c0c0&title_color=e38c00&hide=html,css,java,javascript,typescript'
 
       - name: Generate Light Langs
-        uses: soulteary/github-readme-stats-action@v1.1.0
+        uses: soulteary/github-readme-stats-action@main
         with:
           card: top-langs
           path: profile/langs-light.svg
