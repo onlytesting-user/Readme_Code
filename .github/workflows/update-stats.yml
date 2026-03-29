@@ -1,5 +1,4 @@
 name: Update GitHub Stats
-
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -12,39 +11,29 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      # --- Stats Cards ---
-      - name: Generate Dark Stats
+      # 🌙 DARK THEME
+
+      - name: Generate Dark Stats SVG
         uses: soulteary/github-readme-stats-action@main
         with:
           card: stats
-          path: profile/stats-dark.svg
-          options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=000&border_color=fff&text_color=c0c0c0&title_color=e38c00'
+          options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=000&border_color=fff&border_radius=6&text_color=c0c0c0&title_color=e38c00&include_all_commits=true&count_private=true&hide_rank=true'
+          path: profile/dark-stats.svg
+          token: ${{ secrets.GH_TOKEN }}
 
-      - name: Generate Light Stats
+      # ☀️ LIGHT THEME
+
+      - name: Generate Light Stats SVG
         uses: soulteary/github-readme-stats-action@main
         with:
           card: stats
-          path: profile/stats-light.svg
-          options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=fff&border_color=d0d7de&text_color=24292f&title_color=0969da'
+          options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=fff&border_color=000&border_radius=6&text_color=000&title_color=e38c00&include_all_commits=true&count_private=true&hide_rank=true'
+          path: profile/light-stats.svg
+          token: ${{ secrets.GH_TOKEN }}
 
-      # --- Language Cards ---
-      - name: Generate Dark Langs
-        uses: soulteary/github-readme-stats-action@main
-        with:
-          card: top-langs
-          path: profile/langs-dark.svg
-          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=000&border_color=fff&text_color=c0c0c0&title_color=e38c00&hide=html,css,java,javascript,typescript'
-
-      - name: Generate Light Langs
-        uses: soulteary/github-readme-stats-action@main
-        with:
-          card: top-langs
-          path: profile/langs-light.svg
-          # Using standard GitHub light colors for the light version
-          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=fff&border_color=d0d7de&text_color=24292f&title_color=0969da&hide=html,css,java,javascript,typescript'
+      # 📦 COMMIT
 
       - name: Commit and Push
         run: |
@@ -52,5 +41,6 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p profile
           git add profile/*.svg
+          # The "|| exit 0" prevents the action from failing if there are no changes
           git commit -m "docs: update profile stats [skip ci]" || exit 0
           git push
