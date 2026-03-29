@@ -3,7 +3,7 @@
 <picture>
   <source srcset="../profile/dark-stats.svg" media="(prefers-color-scheme: dark)" />
   <source srcset="../profile/light-stats.svg" media="(prefers-color-scheme: light)" />
-  <img src="../profile/dark-stats.svg" width="42%" align="right" />
+  <img src="../profile/dark-stats.svg" width="48%" align="right" />
 </picture>
 
 - :computer: &nbsp;I'm a **Database Administrator (DBA)**
@@ -13,7 +13,6 @@
 - :speech_balloon: &nbsp;I like to talk about **Database** and **Infrastructure**
 - :mailbox: &nbsp;Ask me anything on my **[Issues page]**
 - :zap: &nbsp;I'm automating something now!
-- :rocket: &nbsp;Be welcome to my profile!
 
 <br>
 
@@ -24,7 +23,7 @@
 
 ### :hammer_and_wrench: Tech Stack
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a>
@@ -40,7 +39,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
       </a>
       <br>SQL Server
     </td>
