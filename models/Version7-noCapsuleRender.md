@@ -1,27 +1,25 @@
 <h1 align="center">:wave: Hello there! I'm João Victor</h1>
 
-<p align="left">
+<picture>
+  <source srcset="../profile/dark-stats.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="../profile/light-stats.svg" media="(prefers-color-scheme: light)" />
+  <img src="../profile/dark-stats.svg" height="185" align="right" />
+</picture>
 
-I'm a DevOps Engineer focused on building scalable, reliable, and automated systems. Experienced with containerization, CI/CD pipelines, and Linux-based environments, with a strong interest in improving deployment efficiency and system stability.
+<!-- <img src="../profile/stats.svg" height="185" align="right" /> -->
 
-Driven by continuous improvement, I focus on creating streamlined workflows, reducing manual processes, and ensuring consistent and maintainable infrastructure.
-
-- :book: &nbsp;Know about my experiences **[Resume]**
-
+- :computer: &nbsp;I'm a **Database Administrator (DBA)**
+- :office: &nbsp;I'm working at **[Myself]**
 - :seedling: &nbsp;I’m currently learning **Terraform**
-
-- :mailbox: &nbsp;Ask me anything on the **[Reddit]**
-
-- :speech_balloon: &nbsp;I like to talk about **Cloud** and **Infrastructure**
-
+- :book: &nbsp;Know about my experiences on my **[Resume]**
+- :speech_balloon: &nbsp;I like to talk about **Database** and **Infrastructure**
+- :mailbox: &nbsp;Ask me anything on my **[Issues page]**
 - :zap: &nbsp;I'm automating something now!
+- :rocket: &nbsp;Be welcome to my profile
 
 <br>
 
-> “We can only see a short distance ahead, but we can see plenty there that needs to be done.”
-**— Alan Turing**
-
-</p>
+<!-- <br clear="right"> -->
 
 ### :globe_with_meridians: Connect with me!
 
@@ -83,31 +81,8 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
   </tr>
 </table>
 
-### :gear: GitHub Analytics
-
-<div align="center">
-
-  <span>
-    <picture>
-      <source srcset="./profile/stats-dark.svg" media="(prefers-color-scheme: dark)" />
-      <source srcset="./profile/stats-light.svg" media="(prefers-color-scheme: light)" />
-      <img src="./profile/stats-dark.svg" width="48%" />
-    </picture>
-  </span>
-
-  &nbsp;
-
-  <span>
-    <picture>
-      <source srcset="./profile/langs-dark.svg" media="(prefers-color-scheme: dark)" />
-      <source srcset="./profile/langs-light.svg" media="(prefers-color-scheme: light)" />
-      <img src="./profile/langs-dark.svg" width="48%" />
-    </picture>
-  </span>
-
-</div>
-
 <!-- Links -->
 
-[Reddit]: https://www.reddit.com/
+[Myself]: https://github.com/onlytesting-user/Readme_Code
+[Issues page]: https://github.com/onlytesting-user/Readme_Code/issues
 [Resume]: https://github.com/onlytesting-user/linkedin-background
