@@ -3,10 +3,8 @@
 <picture>
   <source srcset="../profile/dark-stats.svg" media="(prefers-color-scheme: dark)" />
   <source srcset="../profile/light-stats.svg" media="(prefers-color-scheme: light)" />
-  <img src="../profile/dark-stats.svg" height="185" align="right" />
+  <img src="../profile/dark-stats.svg" width="42%" align="right" />
 </picture>
-
-<!-- <img src="../profile/stats.svg" height="185" align="right" /> -->
 
 - :computer: &nbsp;I'm a **Database Administrator (DBA)**
 - :office: &nbsp;I'm working at **[Myself]**
@@ -15,11 +13,9 @@
 - :speech_balloon: &nbsp;I like to talk about **Database** and **Infrastructure**
 - :mailbox: &nbsp;Ask me anything on my **[Issues page]**
 - :zap: &nbsp;I'm automating something now!
-- :rocket: &nbsp;Be welcome to my profile
+- :rocket: &nbsp;Be welcome to my profile!
 
 <br>
-
-<!-- <br clear="right"> -->
 
 ### :globe_with_meridians: Connect with me!
 
