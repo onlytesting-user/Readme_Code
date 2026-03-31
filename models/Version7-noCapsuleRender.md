@@ -1,12 +1,13 @@
 <h1 align="center">:wave: Hello there! I'm João Victor</h1>
 
+<h3>I'm a Database Administrator</h3>
+
 <picture>
   <source srcset="../profile/dark-stats.svg" media="(prefers-color-scheme: dark)" />
   <source srcset="../profile/light-stats.svg" media="(prefers-color-scheme: light)" />
   <img src="../profile/dark-stats.svg" width="48%" align="right" />
 </picture>
 
-- :computer: &nbsp;I'm a **Database Administrator (DBA)**
 - :office: &nbsp;I'm working at **[Myself]**
 - :seedling: &nbsp;I’m currently learning **Terraform**
 - :book: &nbsp;Know about my experiences on my **[Resume]**
@@ -18,10 +19,14 @@
 
 ### :globe_with_meridians: Connect with me!
 
+> Professional channels for networking and collaboration.
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:theuglyduck272@gmail.com)
 
 ### :hammer_and_wrench: Tech Stack
+
+> My current technical toolkit and preferred technologies.
 
 <table align="center">
   <tr>
