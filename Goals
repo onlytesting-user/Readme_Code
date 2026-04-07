@@ -1,0 +1,59 @@
+
+Total Stars: 0
+Total Commits: 600+
+Total PRs: 35+
+Total Issues: 25+
+Contributed to: 0
+
+Estimated Grade: B+ or A-
+
+1. The "Collaboration" Badges (High Priority)
+These are the most important for DevOps because they prove you can work within a Git-flow environment.
+
+🏆 Pull Shark: * What it proves: You know how to open, manage, and merge Pull Requests (PRs).
+
+How to get it: Get 2 Pull Requests merged into a public repository. It can even be your own repository!
+
+Levels: It "levels up" (Bronze, Silver, Gold) as you merge more PRs (16, 128, 1024).
+
+🏆 Pair Extraordinaire:
+
+What it proves: You can collaborate with others (essential for "Dev + Ops" culture).
+
+How to get it: Co-author a commit on a merged PR.
+
+The Shortcut: When committing, add Co-authored-by: name <email@address.com> to the bottom of your commit message. When that PR is merged, both of you get the badge.
+
+2. The "Reliability" Badges
+🏆 Quickdraw:
+
+What it proves: You are responsive—a key trait for SREs and Infrastructure engineers.
+
+How to get it: Close an issue or a PR within 5 minutes of it being opened.
+
+🏆 YOLO:
+
+What it proves: (A bit of a joke badge) You are comfortable taking action.
+
+How to get it: Merge a PR without a code review. Note: Use this sparingly in your own repos just to trigger the badge; in a real job, always get a review!
+
+3. The "Community & Knowledge" Badges
+🏆 Galaxy Brain:
+
+What it proves: You can solve problems for others—great for showing seniority.
+
+How to get it: Have your answer in a GitHub Discussion marked as the "Accepted Answer" twice.
+
+🏆 Starstruck:
+
+What it proves: You created something the community finds useful.
+
+How to get it: Create a repository that receives 16 stars.
+
+
+Badges you CANNOT get anymore (Legacy)
+You might see some people with the Arctic Code Vault Contributor (a snowflake icon) or the Mars 2020 Contributor.
+
+Can you get them? No. These were awarded for contributing to specific repositories at a specific time in history (2020).
+
+Why does this matter? Don't waste time trying to "unlock" these; they are permanently locked for anyone who wasn't active back then.
