@@ -1,58 +1,88 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=120&section=header"/>
+<h1 align="center">:wave: Hello there! I'm João Victor</h1>
 
-<div align="center">
-  <a href="https://linkedin.com/" alt="My LinkedIn profile">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFlcjE0dW9wZXNkMGt4bXRqNzl2NGZjNjR6YjJsMXN1cXA5ZWo0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8VdF6eUDd2e96lmyOB/giphy.gif" width="200" />
-  </a>
-</div>
+<h3>I'm a Database Administrator</h3>
 
-<br>
-<br>
+<picture>
+  <source srcset="profile/dark-stats.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="profile/light-stats.svg" media="(prefers-color-scheme: light)" />
+  <img src="profile/dark-stats.svg" width="48%" align="right" />
+</picture>
 
-<div align="center">
+- :office: &nbsp;I'm working at **[Myself]**
+- :seedling: &nbsp;I’m currently learning **Terraform**
+- :book: &nbsp;Know about my experiences on my **[Resume]**
+- :speech_balloon: &nbsp;I like to talk about **Database** and **Infrastructure**
+- :mailbox: &nbsp;Ask me anything on my **[Issues page]**
+- :zap: &nbsp;I'm automating something now!
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=512BD4&size=35&center=true&vCenter=true&width=1000&lines=👋+Greetings,+I'm+Testing;💻+I'm+a+.NET+Back-End+Developer;🚀+Welcome+to+my+profile!)](https://git.io/typing-svg)
+<br clear="right">
 
-</div>
+### :globe_with_meridians: Connect with me!
 
-<details align="center">
-  <summary>
-    <samp>
-      <b>More Info</b>
-    </samp>
-  </summary>
+> Professional channels for networking and collaboration.
 
-<br>
-<br>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:theuglyduck272@gmail.com)
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onlytesting-user&show_icons=true&count_private=true&rank_icon=github&hide_border=true&title_color=512BD4&icon_color=512BD4&text_color=c9d1d9&bg_color=00000000" alt="onlytesting-user github stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlytesting-user&layout=compact&langs_count=6&hide_border=true&title_color=512BD4&text_color=c9d1d9&bg_color=00000000" />
-</div>
+### :hammer_and_wrench: Tech Stack
 
-<div align="center">
+> My current technical toolkit and preferred technologies.
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onlytesting-user&bg_color=000000&color=512BD4&line=7A47E0&point=3E22A0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
+      </a>
+      <br>SQL Server
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="Azure SQL Database" />
+      </a>
+      <br>Azure SQL
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>RedisDB
+    </td>
+    <td align="center"  width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="48" height="48" alt="DynamoDB" />
+      </a>
+      <br>DynamoDB
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+  </tr>
+</table>
 
-</div>
+<!-- Links -->
 
-<br>
-
-<div align="center">
-  <a href="mailto:theuglyduck272@gmail.com" alt="Send me an email">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNzZnVyMjd2bXBsOXNuMGlmdDcwbjRqMGI5dDZrdmxwNXIzbnQwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HxFDhA4TSjaxwI6T3s/giphy.gif" width="200" />
-  </a>
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img width="500" src="https://skillicons.dev/icons?i=cs,postgres,dotnet,mongodb,git,redis,docker,azure,postman,rabbitmq" />
-  </a>
-</div>
-
-</details>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=120&section=footer">
+[Myself]: https://github.com/onlytesting-user/Readme_Code
+[Issues page]: https://github.com/onlytesting-user/Readme_Code/issues
+[Resume]: https://github.com/onlytesting-user/linkedin-background
