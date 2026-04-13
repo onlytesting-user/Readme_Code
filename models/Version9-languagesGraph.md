@@ -28,7 +28,7 @@
 
 > My current technical toolkit and preferred technologies.
 
-<picture>
+<picture align="center">
   <source align="center" srcset="../profile/dark-langs.svg" media="(prefers-color-scheme: dark)" />
   <source align="center" srcset="../profile/light-langs.svg" media="(prefers-color-scheme: light)" />
   <img align="center" src="../profile/dark-langs.svg" width="48%" align="right" />
