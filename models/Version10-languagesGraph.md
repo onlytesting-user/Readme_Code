@@ -30,14 +30,14 @@
 
 <table width="100%" border="0" align="center">
   <tr>
-    <td width="70%" align="center" valign="top">
+    <td width="80%" align="center" valign="top">
       <picture>
         <source srcset="../profile/dark-langs.svg" media="(prefers-color-scheme: dark)" />
         <source srcset="../profile/light-langs.svg" media="(prefers-color-scheme: light)" />
         <img src="../profile/dark-langs.svg" width="100%" />
       </picture>
     </td>
-    <td width="30%" align="center" valign="top">
+    <td width="40%" align="center" valign="top">
       <b>Backend</b>
       <p>
         <a href="https://skillicons.dev">
