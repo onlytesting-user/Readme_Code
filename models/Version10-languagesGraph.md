@@ -37,7 +37,7 @@
         <img src="../profile/dark-langs.svg" width="100%" />
       </picture>
     </td>
-    <td width="60%" align="center" valign="top">
+    <td width="80%" align="center" valign="top">
       <b>Backend</b>
       <p>
         <a href="https://skillicons.dev">
