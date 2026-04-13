@@ -28,13 +28,43 @@
 
 > My current technical toolkit and preferred technologies.
 
-<div>
-  <picture align="center">
-    <source align="center" srcset="../profile/dark-langs.svg" media="(prefers-color-scheme: dark)" />
-    <source align="center" srcset="../profile/light-langs.svg" media="(prefers-color-scheme: light)" />
-    <img align="center" src="../profile/dark-langs.svg" width="30%" align="right" />
+<div align="center">
+  <picture>
+    <source srcset="../profile/dark-langs.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="../profile/light-langs.svg" media="(prefers-color-scheme: light)" />
+    <img src="../profile/dark-langs.svg" width="45%" align="right" />
   </picture>
 </div>
+
+<div align="center">
+
+<b>Backend & Data</b>
+
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,bun,postgres,redis" />
+    </a>
+  </p>
+
+<b>Frontend</b>
+
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
+    </a>
+  </p>
+
+<b>Infrastructure & Observability</b>
+
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,aws,terraform,grafana" />
+    </a>
+  </p>
+
+</div>
+
+<!-- <div align="center">
 
 #### Backend
 
@@ -54,7 +84,9 @@
 
 #### Messaging & Observability
 
-[![Messaging](https://skillicons.dev/icons?i=rabbitmq,kafka,prometheus,grafana)](https://skillicons.dev)
+[![Messaging](https://skillicons.dev/icons?i=rabbitmq,kafka,prometheus,grafana)](https://skillicons.dev) -->
+
+<!-- </div> -->
 
 <!-- Links -->
 
