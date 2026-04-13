@@ -28,7 +28,7 @@
 
 > My current technical toolkit and preferred technologies.
 
-<div align="center">
+<div>
   <picture align="center">
     <source align="center" srcset="../profile/dark-langs.svg" media="(prefers-color-scheme: dark)" />
     <source align="center" srcset="../profile/light-langs.svg" media="(prefers-color-scheme: light)" />
@@ -36,60 +36,25 @@
   </picture>
 </div>
 
-<br>
+#### Backend
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
-      </a>
-      <br>SQL Server
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="Azure SQL Database" />
-      </a>
-      <br>Azure SQL
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-      </a>
-      <br>RedisDB
-    </td>
-    <td align="center"  width="96">
-      <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="48" height="48" alt="DynamoDB" />
-      </a>
-      <br>DynamoDB
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
-      </a>
-      <br>Ansible
-    </td>
-  </tr>
-</table>
+[![Backend](https://skillicons.dev/icons?i=typescript,nodejs,nestjs,bun)](https://skillicons.dev)
+
+#### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)
+
+#### Infrastructure & Cloud
+
+[![Infra](https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform)](https://skillicons.dev)
+
+#### Data
+
+[![Data](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
+
+#### Messaging & Observability
+
+[![Messaging](https://skillicons.dev/icons?i=rabbitmq,kafka,prometheus,grafana)](https://skillicons.dev)
 
 <!-- Links -->
 

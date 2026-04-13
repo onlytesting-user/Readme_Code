@@ -1,6 +1,6 @@
 <h1 align="center">:wave: Hello there! I'm João Victor</h1>
 
-<h3>I'm a Fullstack Developer</h3>
+<h3>I'm a Database Administrator</h3>
 
 <picture>
   <source srcset="../profile/dark-stats.svg" media="(prefers-color-scheme: dark)" />
@@ -28,42 +28,66 @@
 
 > My current technical toolkit and preferred technologies.
 
-<table width="100%" border="0" align="center">
-  <tr>
-    <td width="70%" align="center" valign="top">
-      <picture>
-        <source srcset="../profile/dark-langs.svg" media="(prefers-color-scheme: dark)" />
-        <source srcset="../profile/light-langs.svg" media="(prefers-color-scheme: light)" />
-        <img src="../profile/dark-langs.svg" width="100%" />
-      </picture>
-    </td>
-    <td width="30%" align="center" valign="top">
-      <b>Backend</b>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,bun" />
-        </a>
-      </p>
-      <b>Frontend</b>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-        </a>
-      </p>
-      <b>Infrastructure & Cloud</b>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform" />
-        </a>
-      </p>
-      <b>Data</b>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
-        </a>
-      </p>
-    </td>
+<div align="center">
+  <picture align="center">
+    <source align="center" srcset="../profile/dark-langs.svg" media="(prefers-color-scheme: dark)" />
+    <source align="center" srcset="../profile/light-langs.svg" media="(prefers-color-scheme: light)" />
+    <img align="center" src="../profile/dark-langs.svg" width="30%" align="right" />
+  </picture>
+</div>
 
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
+      </a>
+      <br>SQL Server
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="Azure SQL Database" />
+      </a>
+      <br>Azure SQL
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>RedisDB
+    </td>
+    <td align="center"  width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="48" height="48" alt="DynamoDB" />
+      </a>
+      <br>DynamoDB
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
   </tr>
 </table>
 
