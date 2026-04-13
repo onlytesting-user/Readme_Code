@@ -23,6 +23,14 @@ jobs:
           path: profile/dark-stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
+      - name: Generate Dark Top Langs SVG
+        uses: soulteary/github-readme-stats-action@main
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=dracula&border_radius=6'
+          path: profile/dark-langs.svg
+          token: ${{ secrets.GH_TOKEN }}
+
       # ☀️ LIGHT THEME
 
       - name: Generate Light Stats SVG
@@ -31,6 +39,14 @@ jobs:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_latte&border_radius=6&include_all_commits=true&count_private=true'
           path: profile/light-stats.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate Light Top Langs SVG
+        uses: soulteary/github-readme-stats-action@main
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=catppuccin_latte&border_radius=6'
+          path: profile/light-langs.svg
           token: ${{ secrets.GH_TOKEN }}
 
       # 📦 COMMIT
