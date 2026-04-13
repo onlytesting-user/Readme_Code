@@ -45,7 +45,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@main
         with:
           card: top-langs
-          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=catppuccin_latte&border_radius=6'
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=catppuccin_latte&border_radius=6'
           path: profile/light-langs.svg
           token: ${{ secrets.GH_TOKEN }}
 
